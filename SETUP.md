@@ -22,7 +22,7 @@ You made this repo from `orvanohq/sdk-template-dart` (spec 0010 TPL-4). Work thr
 4. Open a first PR. Its green CI is the proof these starter files work (spec 0008 KIT-3).
 5. Delete this file.
 
-CI calls the core's shared workflows at `cb12f1df33e00f892de7040a05e3ab17cf9410d4` (`main` as of 2026-10-18). Move that pin forward with the
+CI calls the core's shared workflows at `a91f23fe6a3452c66d4d3516abbefae168136de7` (`main` as of 2026-10-18). Move that pin forward with the
 core.
 
 ## Common files
